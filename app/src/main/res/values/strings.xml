@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AI Scanner</string>
+    <string name="tap_screen_to_start">Move the camera</string>
+    <string name="processing">Processing…</string>
+    <string name="tap_around_the_object_to_mark_points">Tap around the object to mark points</string>
+    <string name="scan">Scan</string>
+    <string name="welcome_text">Welcome</string>
+    <string name="ad_will_be_shown_shortly">Ad will be shown shortly</string>
+</resources>
