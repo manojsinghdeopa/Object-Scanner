@@ -1,6 +1,6 @@
-# 📱 ObjectScanner
+# 📱 Object Scanner
 
-- **ObjectScanner** is an Android app that combines **ARCore** and **Gemini API** to scan, analyze, and understand real-world objects.  
+- **Object Scanner** is an Android app that combines **ARCore** and **Gemini API** to scan, analyze, and understand real-world objects.  
 - It provides an interactive AR-based experience for identifying objects and retrieving AI-powered insights.
 
 
@@ -25,7 +25,7 @@
 
  ```bash
 - Clone this repository:
-   git clone https://github.com/manojsinghdeopa/ObjectScanner.git
+   git clone https://github.com/manojsinghdeopa/Object-Scanner.git
 
 - Open in Android Studio (latest version).
 - Set up ARCore in your project:
